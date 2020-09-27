@@ -1,0 +1,15 @@
+.courseHeading{
+    margin-top: 30px;
+}
+
+
+.courseList{
+    border-radius: 10px;
+    padding: 20px;
+    border: 1px solid #ed5400;
+    margin-top: 20px;
+}
+.courseList img{
+    width:  400px;
+    height: 200px;
+}

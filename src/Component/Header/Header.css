@@ -1,0 +1,17 @@
+.header{
+    border-bottom: 1px solid #ed5400;
+}
+
+img{
+    height: 70px;
+    padding: 20px;
+}
+.search-box{
+    height: 35px;
+    width: 300px;
+    border-radius: 30px;
+    padding-left: 20px;
+    border: 1px solid #505050 ;
+    margin-left: 30px;
+}
+

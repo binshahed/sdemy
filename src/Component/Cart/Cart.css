@@ -1,0 +1,19 @@
+h2{
+    margin-top: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+h5{
+    line-height: 40px;
+}
+.course-num{
+    text-align: center;
+}
+.total-price{
+    font-weight: bold;
+    color:#ed5400;
+}
+.btn-success{
+    background-color:#ed5400 ;
+    border: none;
+}
